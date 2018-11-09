@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 ```
 
 
+
 # harpPop
 
 harpPop is an R package reworking of the Hammill Harp Seal model.
