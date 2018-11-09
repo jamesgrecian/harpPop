@@ -1,0 +1,18 @@
+Package: harpPop
+Type: Package
+Title: Harp seal population estimation
+Version: 0.1.0
+Authors@R: c(
+    person("James", "Grecian", e-mail = "james.grecian@gmail.com",
+    role = c("aut", "cre")),
+    person("Arnaud", "Mosnier",
+    role = c("aut")),
+    person("Mike", "Hammill",
+    role = c("aut"))
+)
+Maintainer: James Grecian <james.grecian@gmail.com>
+Description: This is a reworking of the Hammill Harp Seal model
+    For more information about the model see: https://doi.org/10.1016/j.biocon.2015.09.016
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
